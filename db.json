@@ -1,0 +1,586 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Raju ahmed",
+      "email": "raju@gmail.com",
+      "password": "123456",
+      "photo": "https://i.postimg.cc/d1rfGQvX/181-Java-logo-logos-512.jpg",
+      "role": "User"
+    },
+    {
+      "id": "a838",
+      "name": "Atik",
+      "email": "atik@gmail.com",
+      "password": "123456",
+      "photo": "https://avatars.githubusercontent.com/u/196037602?v=4",
+      "role": "Admin"
+    },
+    {
+      "id": "25c4",
+      "name": "gujowk",
+      "email": "rtyu@gmail.com",
+      "password": "123456",
+      "photo": "https://i.postimg.cc/VNWjKPrb/bird-1045954-1280.jpg",
+      "role": "Admin"
+    },
+    {
+      "id": "cb79",
+      "name": "Apple",
+      "email": "htugjk@gmail.com",
+      "password": "123456",
+      "photo": "https://i.postimg.cc/ZqtQBkHY/johnson-martin-zpq2-DMid-OY0-unsplash.jpg",
+      "role": "User"
+    },
+    {
+      "id": "ad70",
+      "name": "drftgyhu",
+      "email": "aaaa@bgyfrby",
+      "password": "123456",
+      "photo": "https://i.postimg.cc/Z5Xjqn4N/download-3.jpg",
+      "role": "User"
+    },
+    {
+      "id": "b614",
+      "name": "Towhid",
+      "email": "tjjjjrfg@vhbgf",
+      "password": "123456",
+      "photo": "https://i.postimg.cc/Y9zx8xgN/download-4.jpg",
+      "role": "User"
+    },
+    {
+      "id": "ea73",
+      "name": "sadfsadfsadfsad",
+      "email": "sadfsadfsadf@gmail.com",
+      "password": "123456",
+      "photo": "s",
+      "role": "User"
+    },
+    {
+      "id": "b459",
+      "name": "3-Methylfentanyl",
+      "email": "atik@gmail.com",
+      "password": "123456",
+      "photo": "https://go.drugbank.com/structures/DB01571/thumb.svg",
+      "role": "User"
+    },
+    {
+      "id": "f4b2",
+      "name": "sadiar",
+      "email": "sadiar11122@gmail.com",
+      "password": "123456",
+      "photo": "https://tinyurl.com/3d6utucy",
+      "role": "User"
+    },
+    {
+      "id": "3b27",
+      "name": "reja",
+      "email": "reja@gmail.com",
+      "password": "123456",
+      "photo": "https://tinyurl.com/mrynbtjk",
+      "role": "User"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "categoryname": "Analgesics"
+    },
+    {
+      "id": "2",
+      "categoryname": "Antibiotics"
+    },
+    {
+      "id": "3",
+      "categoryname": "Antivirals"
+    },
+    {
+      "id": "4",
+      "categoryname": "Antifungals"
+    },
+    {
+      "id": "5",
+      "categoryname": "Antihistamines"
+    },
+    {
+      "id": "6",
+      "categoryname": "Antacids"
+    },
+    {
+      "id": "7",
+      "categoryname": "Antidepressants"
+    },
+    {
+      "id": "8",
+      "categoryname": "Antipsychotics"
+    },
+    {
+      "id": "9",
+      "categoryname": "Antihypertensives"
+    },
+    {
+      "id": "10",
+      "categoryname": "Diuretics"
+    },
+    {
+      "id": "11",
+      "categoryname": "Anticoagulants"
+    },
+    {
+      "id": "12",
+      "categoryname": "Antidiabetics"
+    },
+    {
+      "id": "13",
+      "categoryname": "Bronchodilators"
+    },
+    {
+      "id": "14",
+      "categoryname": "Vaccines"
+    },
+    {
+      "id": "15",
+      "categoryname": "Sedatives and Hypnotics"
+    },
+    {
+      "id": "16",
+      "categoryname": "Corticosteroids"
+    },
+    {
+      "id": "17",
+      "categoryname": "Antiemetics"
+    },
+    {
+      "id": "18",
+      "categoryname": "Laxatives"
+    },
+    {
+      "id": "19",
+      "categoryname": "Muscle Relaxants"
+    },
+    {
+      "id": "20",
+      "categoryname": "Anticonvulsants"
+    },
+    {
+      "id": "44d3",
+      "categoryname": "Insuline"
+    },
+    {
+      "id": "771b",
+      "categoryname": "Vitamine C"
+    },
+    {
+      "id": "37b3",
+      "categoryname": "Paracetamol"
+    },
+    {
+      "id": "47ea",
+      "categoryname": "keterolac"
+    },
+    {
+      "id": "1748",
+      "categoryname": "Cefixime"
+    },
+    {
+      "id": "bb33",
+      "categoryname": "Coral Calcium"
+    },
+    {
+      "id": "4b61",
+      "categoryname": "Iron -Polymaltose"
+    },
+    {
+      "id": "de7a",
+      "categoryname": "Flucloxine"
+    },
+    {
+      "id": "f242",
+      "categoryname": "Saline"
+    },
+    {
+      "id": "2b3e",
+      "categoryname": "Oionment "
+    },
+    {
+      "id": "c79b",
+      "categoryname": "Esomiprazole"
+    },
+    {
+      "id": "cd52",
+      "categoryname": "Omiprazole"
+    },
+    {
+      "id": "4f74",
+      "categoryname": "Napa"
+    }
+  ],
+  "products": [
+    {
+      "id": "c1d2",
+      "name": "3-Methylfentanyl",
+      "photo": "https://go.drugbank.com/structures/DB01571/thumb.svg",
+      "stock": 50,
+      "unitprice": 50,
+      "quantity": 5,
+      "categories": [
+        {
+          "id": "1",
+          "categoryname": "Analgesics"
+        }
+      ]
+    },
+    {
+      "id": "652d",
+      "name": "Paracetamol BP-500",
+      "photo": "https://tinyurl.com/2m5uy8tw",
+      "unitprice": 15,
+      "stock": 50,
+      "categories": [
+        {
+          "id": "37b3",
+          "categoryname": "Paracetamol"
+        }
+      ]
+    },
+    {
+      "id": "57d7",
+      "name": "Rolac-60mg",
+      "photo": "https://tinyurl.com/342a9em5",
+      "unitprice": 10,
+      "stock": 50,
+      "categories": [
+        {
+          "id": "47ea",
+          "categoryname": "keterolac"
+        }
+      ]
+    },
+    {
+      "id": "4dc7",
+      "name": "Rolac-90 mg",
+      "photo": "https://tinyurl.com/342a9em5",
+      "unitprice": 12,
+      "stock": 50,
+      "categories": [
+        {
+          "id": "47ea",
+          "categoryname": "keterolac"
+        }
+      ]
+    },
+    {
+      "id": "f259",
+      "name": "Saline-500 ml",
+      "photo": "https://tinyurl.com/mrynbtjk",
+      "stock": 96,
+      "unitprice": 90,
+      "quantity": 2,
+      "categories": [
+        {
+          "id": "f242",
+          "categoryname": "Saline"
+        }
+      ]
+    },
+    {
+      "id": "6c3d",
+      "name": "Vitamin Tab",
+      "photo": "https://tinyurl.com/4ze73yr7",
+      "unitprice": 5,
+      "stock": 50,
+      "categories": [
+        {
+          "id": "771b",
+          "categoryname": "Vitamine C"
+        }
+      ]
+    },
+    {
+      "id": "6e8c",
+      "name": "Coral cal-D",
+      "photo": "https://tinyurl.com/3d6utucy",
+      "unitprice": 10,
+      "stock": 100,
+      "categories": [
+        {
+          "id": "bb33",
+          "categoryname": "Coral Calcium"
+        }
+      ]
+    },
+    {
+      "id": "b6db",
+      "name": "Insuline IV",
+      "photo": "https://tinyurl.com/3azskdnt",
+      "unitprice": 25,
+      "stock": 80,
+      "categories": [
+        {
+          "id": "44d3",
+          "categoryname": "Insuline"
+        }
+      ]
+    },
+    {
+      "id": "ab67",
+      "name": "Oionment",
+      "photo": "https://tinyurl.com/5dpn8eu4",
+      "stock": 33,
+      "unitprice": 37,
+      "quantity": 5
+    },
+    {
+      "id": "3032",
+      "name": "Ace ",
+      "photo": "https://tinyurl.com/523dxh2c",
+      "stock": 17,
+      "unitprice": 27,
+      "quantity": 7
+    },
+    {
+      "id": "2dc1",
+      "name": "sergel-20mg",
+      "photo": "https://tinyurl.com/mvakdanc",
+      "stock": 93,
+      "unitprice": 7,
+      "quantity": 5
+    },
+    {
+      "id": "2084",
+      "name": "sergel-40mg",
+      "photo": "https://tinyurl.com/bdermkuj",
+      "unitprice": 10,
+      "stock": 150,
+      "categories": [
+        {
+          "id": "cd52",
+          "categoryname": "Omiprazole"
+        }
+      ]
+    },
+    {
+      "id": "c490",
+      "name": "losectil-20mg",
+      "photo": "https://tinyurl.com/yev2fu4h",
+      "unitprice": 6,
+      "stock": 100,
+      "categories": [
+        {
+          "id": "c79b",
+          "categoryname": "Esomiprazole"
+        }
+      ]
+    },
+    {
+      "id": "9a99",
+      "name": "Antibiotic -250mg",
+      "photo": "https://tinyurl.com/3yeawshy",
+      "stock": 39,
+      "unitprice": 30,
+      "quantity": 6
+    },
+    {
+      "id": "5bec",
+      "name": "Antibiotic -500mg",
+      "photo": "https://tinyurl.com/3yeawshy",
+      "unitprice": 50,
+      "stock": 100,
+      "categories": [
+        {
+          "id": "2",
+          "categoryname": "Antibiotics"
+        }
+      ]
+    }
+  ],
+  "sales": [
+    {
+      "id": "69b4",
+      "customername": "emran",
+      "salesdate": "2025-07-17",
+      "product": [
+        {
+          "id": "3032",
+          "name": "Ace ",
+          "photo": "https://tinyurl.com/523dxh2c",
+          "stock": 17,
+          "unitprice": 27,
+          "quantity": 7
+        }
+      ]
+    },
+    {
+      "id": "8146",
+      "customername": "islam",
+      "salesdate": "2025-07-17",
+      "totalprice": 100,
+      "product": [
+        {
+          "id": "46d4",
+          "name": "fewtgsgew",
+          "photo": "https://go.drugbank.com/structures/DB01571/thumb.svg",
+          "stock": 26,
+          "unitprice": 50,
+          "quantity": 2,
+          "categories": [
+            {
+              "id": "17",
+              "categoryname": "Antiemetics"
+            }
+          ]
+        },
+        {}
+      ]
+    },
+    {
+      "id": "8939",
+      "customername": "islam",
+      "salesdate": "2025-07-17",
+      "totalprice": 310,
+      "product": [
+        {
+          "id": "9981",
+          "name": "ttgt",
+          "photo": "https://go.drugbank.com/structures/DB01571/thumb.svg",
+          "stock": 28,
+          "unitprice": 30,
+          "quantity": 2,
+          "categories": [
+            {
+              "id": "18",
+              "categoryname": "Laxatives"
+            }
+          ]
+        },
+        {
+          "id": "c1d2",
+          "name": "3-Methylfentanyl",
+          "photo": "https://go.drugbank.com/structures/DB01571/thumb.svg",
+          "stock": 3,
+          "unitprice": 50,
+          "quantity": 5,
+          "categories": [
+            {
+              "id": "1",
+              "categoryname": "Analgesics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5385",
+      "customername": "emran",
+      "salesdate": "2025-07-21",
+      "totalprice": 185,
+      "product": [
+        {
+          "id": "ab67",
+          "name": "Oionment",
+          "photo": "https://tinyurl.com/5dpn8eu4",
+          "stock": 45,
+          "unitprice": 37,
+          "quantity": 5,
+          "categories": [
+            {
+              "id": "2b3e",
+              "categoryname": "Oionment "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7274",
+      "customername": "Halima",
+      "salesdate": "2025-07-22",
+      "totalprice": 180,
+      "product": [
+        {
+          "id": "f259",
+          "name": "Saline-500 ml",
+          "photo": "https://tinyurl.com/mrynbtjk",
+          "stock": 98,
+          "unitprice": 90,
+          "quantity": 2,
+          "categories": [
+            {
+              "id": "f242",
+              "categoryname": "Saline"
+            }
+          ]
+        },
+        {}
+      ]
+    },
+    {
+      "id": "a676",
+      "customername": "emran",
+      "salesdate": "2025-07-22",
+      "totalprice": 380,
+      "product": [
+        {
+          "id": "3032",
+          "name": "Ace ",
+          "photo": "https://go.drugbank.com/structures/DB01571/thumb.svg",
+          "stock": 40,
+          "unitprice": 20,
+          "quantity": 10,
+          "categories": [
+            {
+              "id": "4f74",
+              "categoryname": "Napa"
+            }
+          ]
+        },
+        {
+          "id": "f259",
+          "name": "Saline-500 ml",
+          "photo": "https://tinyurl.com/mrynbtjk",
+          "stock": 96,
+          "unitprice": 90,
+          "quantity": 2,
+          "categories": [
+            {
+              "id": "f242",
+              "categoryname": "Saline"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4f23",
+      "customername": "rahamot",
+      "salesdate": "2025-07-23",
+      "totalprice": 180,
+      "product": [
+        {
+          "id": "9a99",
+          "name": "Antibiotic -250mg",
+          "photo": "https://tinyurl.com/3yeawshy",
+          "stock": 39,
+          "unitprice": 30,
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "id": "2e72",
+      "customername": "Halima",
+      "salesdate": "2025-07-23",
+      "product": [
+        {
+          "id": "2dc1",
+          "name": "sergel-20mg",
+          "photo": "https://tinyurl.com/mvakdanc",
+          "stock": 93,
+          "unitprice": 7,
+          "quantity": 5
+        }
+      ],
+      "totalprice": 35
+    }
+  ]
+}
